@@ -1,8 +1,8 @@
 <!-- Light/dark images use GitHub's theme-context feature: #gh-light-mode-only / #gh-dark-mode-only -->
 <div align="center">
 
-![Byte introduces Guna](assets/byte-light.svg#gh-light-mode-only)
-![Byte introduces Guna](assets/byte-dark.svg#gh-dark-mode-only)
+![Byte introduces Guna](assests/byte-light.svg#gh-light-mode-only)
+![Byte introduces Guna](assests/byte-dark.svg#gh-dark-mode-only)
 
 # Hi, I'm Guna Sekhar 👋
 
